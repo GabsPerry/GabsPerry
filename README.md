@@ -16,7 +16,7 @@ Data Engineer with 4 years of experience working in large-scale data environment
 
 ---
 
-### 🤖 **Skills (Data Engineering)**
+### 🤖 **Skills**
 
 <img 
     align="left" 
