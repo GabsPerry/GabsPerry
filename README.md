@@ -50,7 +50,7 @@
 
 ---
 
-### 🌐 Connect With Me
+### 🌐 Connect with me
 
 <p align="left">
 
