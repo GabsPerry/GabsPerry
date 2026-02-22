@@ -54,6 +54,15 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" 
 />
 
+<img 
+    align="left" 
+    alt="Linux"
+    title="Linux" 
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" 
+/>
+
 <br/>
 <br/>
 
