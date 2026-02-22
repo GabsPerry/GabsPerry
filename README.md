@@ -4,16 +4,6 @@
 
 Data engineer with 4+ years of experience working in large-scale data environments. I design and build data ingestion, transformation, and delivery pipelines using modern data platforms and cloud-native architectures. Strong expertise in SQL, Python, Spark and data modeling, with experience in governance, reliability, optimization, and supporting analytics teams with high-impact, production-grade pipelines.
 
-<p align="left">
-    <a href="https://www.linkedin.com/in/gabriel-perillo/">
-        <img 
-            alt="linkedin account" 
-            title="Acesse meu LinkedIn" 
-            src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-        />
-    </a>
-</p>
-
 ---
 
 ### ⚙️ **Skills**
@@ -57,6 +47,32 @@ Data engineer with 4+ years of experience working in large-scale data environmen
 
 <br/>
 <br/>
+
+---
+
+### 🌐 Connect With Me
+
+<p align="left">
+
+  <!-- Gmail -->
+  <a href="mailto:gabielperillo.dev@gmail.com">
+      <img 
+          alt="Gmail" 
+          title="Enviar e-mail" 
+          src="https://custom-icon-badges.demolab.com/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+      />
+  </a>
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/gabriel-perillo/">
+      <img 
+          alt="LinkedIn" 
+          title="Acesse meu LinkedIn" 
+          src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      />
+  </a>
+
+</p>
 
 ---
 
