@@ -26,14 +26,17 @@ Data Engineer with 4 years of experience working in large-scale data environment
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
+
+<!-- SQL - custom icon -->
 <img 
     align="left" 
     alt="SQL"
     title="SQL" 
     width="40px" 
     style="padding-right: 10px;" 
-    src="https://img.icons8.com/ios-filled/250/000000/sql.png" 
+    src="https://i.imgur.com/8uQxZsT.png" 
 />
+
 <img 
     align="left" 
     alt="Apache Spark"
@@ -42,14 +45,17 @@ Data Engineer with 4 years of experience working in large-scale data environment
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" 
 />
+
+<!-- Databricks (stable icon) -->
 <img 
     align="left" 
     alt="Databricks"
     title="Databricks" 
     width="40px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/databricks/databricks-original.svg" 
+    src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/databricks.svg" 
 />
+
 <img 
     align="left" 
     alt="Git"
@@ -72,13 +78,12 @@ Data Engineer with 4 years of experience working in large-scale data environment
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=GabrielPerillo&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
+    src="https://github-readme-stats-git-masterorgs-projects.oguzhanozdemir1.vercel.app/api?username=GabrielPerillo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" 
+/>
   <img 
-      align="left" 
-      alt="Languages" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielPerillo&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+    align="left" 
+    alt="Languages" 
+    height="200" 
+    src="https://github-readme-stats-git-masterorgs-projects.oguzhanozdemir1.vercel.app/api/top-langs/?username=GabrielPerillo&theme=tokyonight&layout=compact&langs_count=9" 
+/>
 </p>
