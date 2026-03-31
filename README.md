@@ -134,19 +134,14 @@ Currently learning PySpark, Databricks and Airflow.
 
 ### 📊 **GitHub Stats**
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=GabrielPerillo&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+<p align="left">
+  <img
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=GabsPerry&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+    width="420"
   />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielPerillo&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GabsPerry&layout=compact&theme=tokyonight&locale=pt-br"
+    width="390"
   />
 </p>
