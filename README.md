@@ -4,7 +4,7 @@
 
 5+ years of experience working in large-scale data environments. I design and build data ingestion, transformation, and delivery pipelines using modern data platforms and cloud-native architectures. 
 Strong expertise in SQL, PySpark, Python and data modeling, with experience in governance, reliability, optimization and supporting analytics teams with high-impact, production-grade pipelines.
-Currently learning PySpark, Databricks and Airflow.
+Currently learning Airflow and Kafka.
 
 ---
 
